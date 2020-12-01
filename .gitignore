@@ -1,0 +1,8 @@
+# Ignore any gifs, images, or .ans or .fem files
+# TBH only important files here are FinalSimulation.py
+# and Final Math.docx
+
+*.gif
+*.png
+*.ans
+*.fem
